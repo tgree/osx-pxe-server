@@ -1,0 +1,5 @@
+[MASTER]
+jobs=4
+
+[MESSAGES CONTROL]
+disable=invalid-name,bad-whitespace,too-few-public-methods,too-many-arguments
